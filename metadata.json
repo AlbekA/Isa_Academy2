@@ -1,0 +1,8 @@
+{
+  "name": "Isa Academy — Языковая Академия в Оше",
+  "description": "Официальный сайт Isa Academy (Иса Академия) в Оше: курсы английского, немецкого и русского языков с интеллектуальным поиском по программам, методикам и учебным материалам.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
